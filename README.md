@@ -1,13 +1,12 @@
 # WeatherPulse
-🌦️ Weather Dashboard
-📊 Project Overview
+<b>🌦️ Weather Dashboard</b>
 
 WeatherPulse is an interactive Power BI dashboard that visualizes real-time weather data using a live Weather API.
 It provides users with quick insights into current weather conditions such as temperature, humidity, wind speed, and atmospheric pressure—helping with travel planning, daily decision-making, and environmental awareness.
 
-🚀 Project Objective
+<b>🚀 Project Objective</b>
 
-The goal of this project is to:
+<b>The goal of this project is to:</b>
 
 Present real-time weather information in a clear and interactive format
 
@@ -15,9 +14,9 @@ Enable users to analyze weather conditions across different locations
 
 Simplify weather data interpretation through intuitive visuals
 
-🧰 Tech Stack
+<b>🧰 Tech Stack</b>
 
-The dashboard was built using the following technologies:
+<b>The dashboard was built using the following technologies:</b>
 
 📊 Power BI Desktop – Main tool for creating interactive dashboards
 
@@ -31,11 +30,11 @@ The dashboard was built using the following technologies:
 
 📁 File Format – .pbix (Power BI project file)
 
-📡 Data Source
+<b>📡 Data Source</b>
 
 Source: Public Weather API
 
-The dataset includes real-time weather parameters such as:
+<b>The dataset includes real-time weather parameters such as:</b>
 
 City and country name
 
@@ -53,7 +52,7 @@ Weather condition (clear, cloudy, rain, etc.)
 
 Data is refreshed automatically using Power BI Service scheduled refresh.
 
-✨ Features & Highlights
+<b>✨ Features & Highlights</b>
 🔹 Business Problem
 
 Weather information is often spread across multiple platforms and lacks intuitive visualization. Users need a single, easy-to-read dashboard that provides real-time insights without complexity.
@@ -95,11 +94,11 @@ Visual representation of environmental conditions
 
 Shows wind speed and direction
 
-☁️ Weather Condition Summary
+<b>☁️ Weather Condition Summary</b>
 
 Clear / Cloudy / Rainy / Stormy status indicators
 
-📈 Business Impact & Insights
+<b>📈 Business Impact & Insights</b>
 
 Travel Planning: Helps users choose destinations based on real-time conditions
 
@@ -109,4 +108,7 @@ Data Awareness: Simplifies complex weather data into actionable insights
 
 Scalability: Can be expanded for multi-city comparison or historical analysis
 
-Project Overview 
+<b>Project Overview : How it look like</b>
+<p align="center">
+  <img src="./WeatherPulseDashboard.png" width="700">
+</p>
